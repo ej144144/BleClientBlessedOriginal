@@ -101,3 +101,7 @@ Gradle version is 7.4
 ```
 
 The library blessed-android is MIT-licensed.
+
+## License
+
+BLE Client Blessed Original is available under the MIT license. See the LICENSE.md file for more info.
